@@ -24,7 +24,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Video Walkthrough](https://i.imgur.com/3ux9pUN.gif)
+![Video Walkthrough](https://github.com/lamsterdam/web102_prework/blob/main/video/demo_prework.gif)
+
+<!-- I tried using the direct link to my imgur like this: <img src='https://i.imgur.com/3ux9pUN.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> but nothing was working so did it different -->
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap for greating the gif and uploaded to imgur.
