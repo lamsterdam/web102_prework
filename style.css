@@ -73,3 +73,29 @@ button {
     margin: 1%;
     border-radius: 7px;
 }
+
+.stats-container {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    box-shadow: 0px 0px 0px lightblue;
+}
+
+.navbar {
+    top: 0;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.navbar-link {
+    font-family: Arial;
+    color: peru;
+    font-size: 20px;
+    text-decoration: none;
+    display: block;
+    padding: 10px 10px;
+}
+
+.navbar-link:hover {
+    font-weight: bold;
+}
