@@ -25,11 +25,10 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 ## <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='https://imgur.com/gallery/demo-prework-MikZ39b' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/3ux9pUN.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...
-I used LiceCap for greating the gif and uploaded to imgur.
+GIF created with LiceCap for greating the gif and uploaded to imgur.
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
